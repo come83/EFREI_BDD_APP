@@ -1,7 +1,4 @@
 import pymysql
-from sql_commands import create_tables, insert_values
-from requestsAndPlot import r1, connect
-import plotly.graph_objects as go
 import json
 
 def connectToDB(): 
